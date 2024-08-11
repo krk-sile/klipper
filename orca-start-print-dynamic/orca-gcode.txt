@@ -1,0 +1,7 @@
+### Add/Edit Orca Slicer > Printer setttings > Machine G-Code > Machine Start G-Code
+
+START_PRINT BED_TEMP=[bed_temperature_initial_layer_single] 
+EXTRUDER_TEMP=[nozzle_temperature_initial_layer] 
+FIRST_LAYER_HEIGHT=[first_layer_height] 
+FIRST_LAYER_HEIGHT=[initial_layer_line_width] 
+RETRACTION_LENGHT[filament_retraction_length]
